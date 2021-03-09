@@ -6,6 +6,8 @@ public class Practice {
 	 [부품찾기]
 	 arr1 에서 arr2값이 있는지 확인하고 
 	 있다면 Yes, 없다면 No를 출력하라	
+	 int [] arr1 = {8,3,7,9,2};
+         int [] arr2 = {5,7,9};
 	*/
 	
 	public static int binarySearch(int []arr1, int target, int start, int end) {
